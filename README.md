@@ -21,6 +21,7 @@ The Project is rendered in Redshift.
 <img src="Images/2021_10_20_The Red Box.png">
 
 Full Node Tree:
+
 <img src="Images/Node Tree.png">
 
 <!---------------------------------------------------------------------------------------------------------------------->
